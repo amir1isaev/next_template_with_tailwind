@@ -1,0 +1,6 @@
+enum ESocketType {
+	CLIENT_NEW_MESSAGE = 'CLIENT_NEW_MESSAGE',
+	SERVER_NEW_MESSAGE = 'SERVER_NEW_MESSAGE',
+}
+
+export default ESocketType
